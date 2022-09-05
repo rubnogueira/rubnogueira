@@ -1,3 +1,9 @@
+💻 Software Engineer and Part-time Geek
+
+<a href="https://www.rubnogueira.com" target="_blank">https://www.rubnogueira.com</a>
+
+___
+
 _expertise.json_
 ```json
 
@@ -102,6 +108,3 @@ _expertise.json_
    "openToWork": true   
 }
 ```
-___
-
-💻 Software Engineer and Part-time Geek - <a href="https://www.rubnogueira.com" target="_blank">https://www.rubnogueira.com</a>
