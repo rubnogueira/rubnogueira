@@ -30,16 +30,12 @@ _expertise.json_
         "tools": ["apollo server", "apollo federation", "mercuriusjs"]
       },
       {
-        "name": ["Security"],
+        "name": ["Security", "Cybersecurity"],
         "tools": ["mitm", "autopsy", "fama", "metasploit", "hackerone", "bugcrowd", "charles", "ilspy", "dnspy", "ghidra", "fiddler"]
       },
       {
-        "name": ["C"],
-        "tools": ["web sockets", "memory management"]
-      },
-      {
-        "name": ["C#"],
-        "tools": [".net", "mosquitto"]
+        "name": ["C", "C#"],
+        "tools": ["web sockets", "memory management", ".net", "mosquitto"]
       },
       {
         "name": ["Java"],
