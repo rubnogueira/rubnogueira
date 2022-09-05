@@ -1,4 +1,4 @@
-__expertise.json__
+_expertise.json_
 ```json
 
 {
@@ -94,7 +94,7 @@ __expertise.json__
       },
       {
         "name": "PMBN - Automóveis, Lda.",
-        "role": "Freelance Developer",
+        "role": "IT Consultant",
         "startTime": 1420070400,
         "endTime": 1580515200,
       }
