@@ -12,6 +12,7 @@ _expertise.json_
     "name": "Ruben Nogueira",
     "location": "Leiria",
     "href": "https://www.rubnogueira.com",
+    "openToWork": true,
     "coding": [
       {
         "name": ["Python"],
@@ -100,7 +101,6 @@ _expertise.json_
         "startTime": 1420070400,
         "endTime": 1580515200,
       }
-   ],
-   "openToWork": true   
+   ]  
 }
 ```
