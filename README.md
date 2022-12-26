@@ -12,7 +12,7 @@ _expertise.json_
     "name": "Ruben Nogueira",
     "location": "Leiria",
     "href": "https://www.rubnogueira.com",
-    "openToWork": true,
+    "openToWork": false,
     "coding": [
       {
         "name": ["Python"],
@@ -83,6 +83,12 @@ _expertise.json_
      ]
    },
    "jobs": [
+      {
+        "name": "Pruvo",
+        "role": "Software Engineer",
+        "startTime": 1664582400,
+        "endTime": null,
+      },
       {
         "name": "WebTales",
         "role": "Full-Stack Developer",
