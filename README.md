@@ -4,9 +4,10 @@
 
 ___
 
-_expertise.json_
+<details>
+  <summary>open expertise.json</summary>
+  
 ```json
-
 {
   "info": {
     "name": "Ruben Nogueira",
@@ -110,3 +111,5 @@ _expertise.json_
    ]  
 }
 ```
+  
+</details>
